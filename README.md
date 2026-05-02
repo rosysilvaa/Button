@@ -11,8 +11,7 @@ O objetivo é mostrar diferentes técnicas de estilização para melhorar a inte
 
 http://127.0.0.1:5500/Button/index.html
 
-
-💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 HTML5
 
